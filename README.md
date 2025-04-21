@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Cindy </h1>
 
 <p align="center">
-  🎓 Data Science for Sustainability @ NUS <br>
-  🔍 Exploring Geospatial Analysis • ESG • AI & Finance <br>
-  🌱 Passionate about data-driven impact & responsible tech
+  📊 Data Science @ NUS | Sustainability is my mission <br>
+  🌏 Python • R • SQL • QGIS | ESG • Geospatial • AI • Finance <br>
+  🚀 Turning data into meaningful action
+</p>
+
 </p>
 
 ---

@@ -3,7 +3,7 @@
 <p align="center">
   📊 Data Science @ NUS | Sustainability is my mission <br>
   🌏 Python • R • SQL • QGIS | ESG • Geospatial • AI • Finance <br>
-  🚀 Turning data into meaningful action <br>
+  <sub>🚀 Turning data into meaningful action </sub>sub><br>
   📍 Based in Singapore 
 </p>
 <p align="center">

@@ -13,8 +13,6 @@
 ---
 
 ## 🌟 Projects Showcase
-🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
-Welcome to Cindy's website! Stay tuned for updates.
 
 🔹 [Sumatra Landcover Analysis (2012–2022)](https://github.com/MaoKuangHsin/Sumatra-Landcover)  
 Geospatial study on forest loss, agriculture, and fire hotspots using QGIS, Python & R.
@@ -24,6 +22,9 @@ Multi-metric scoring approach to assess company ESG performance.
 
 🔹 [House Price Prediction](https://github.com/MaoKuangHsin/House-Prices-Prediction)  
 Machine learning models to predict real estate prices with regression techniques.
+
+🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
+Welcome to Cindy's website! Stay tuned for updates.
 
 ---
 

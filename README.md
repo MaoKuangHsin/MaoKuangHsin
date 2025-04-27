@@ -7,6 +7,8 @@
 </p>
 <p align="center">
   <a href="https://maokuanghsin.github.io/" target="_blank">My personal website</a>
+  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a>
+  <a Feel free to check out my work and reach out!</a>
 </p>
 
 ---
@@ -22,6 +24,9 @@ Multi-metric scoring approach to assess company ESG performance.
 🔹 [House Price Prediction](https://github.com/MaoKuangHsin/House-Prices-Prediction)  
 Machine learning models to predict real estate prices with regression techniques.
 
+🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)
+Welcome to Cindy's website! Stay tuned for updates.
+
 ---
 
 ## 🛠️ Tools & Skills
@@ -34,10 +39,7 @@ Machine learning models to predict real estate prices with regression techniques
 
 ---
 
-## 📫 Contact
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/cindymao109/)  
-Feel free to check out my work and reach out!
 
 <!--
 **MaoKuangHsin/MaoKuangHsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

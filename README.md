@@ -15,7 +15,7 @@
 
 ## 🌟 Projects Showcase
 
-🔹 [Stock Trends and Returns](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)
+🔹 [Stock Trends and Returns](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)<br>
 Explore global stock market trends and returns for 2023–2024.
 
 🔹 [Sumatra Landcover Analysis (2012–2022)](https://github.com/MaoKuangHsin/Sumatra-Landcover)  

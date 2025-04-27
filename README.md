@@ -40,6 +40,13 @@ Welcome to Cindy's website! Stay tuned for updates.
 
 ---
 
+## 🌎 Languages
+
+- Chinese (Mandarin): Native
+- English: Fluent
+- Taiwanese Hokkien: Conversational
+- Cantonese: Conversational
+- Japanese: Conversational
 
 
 <!--

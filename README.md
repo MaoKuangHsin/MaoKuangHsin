@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://maokuanghsin.github.io/" target="_blank">My personal website</a>
-  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a><br>
+  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a>
   
 </p>
 

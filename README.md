@@ -6,8 +6,8 @@
   🚀 Turning data into meaningful action
 </p>
 <p align="center">
-  <a href="https://maokuanghsin.github.io/" target="_blank">My personal website</a>
-  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a>
+  <a href="https://maokuanghsin.github.io/" target="_blank">My personal website</a>&nbsp;|&nbsp;
+  <a href="https://cindymao.carrd.co/" target="_blank">Connect with Me</a>
   
 </p>
 

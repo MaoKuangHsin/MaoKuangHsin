@@ -21,6 +21,8 @@ Explore global stock market trends and returns for 2023–2024.
 🔹 [Sumatra Landcover Analysis (2012–2022)](https://github.com/MaoKuangHsin/Sumatra-Landcover)  
 Geospatial study on forest loss, agriculture, and fire hotspots using QGIS, Python & R.
 
+🔹 [QR Code Generator](https://maokuanghsin.github.io/qr-code-generator/)
+
 🔹 [ESG Scoring System](https://github.com/MaoKuangHsin/ESG-Scoring-System)  
 Multi-metric scoring approach to assess company ESG performance.
 

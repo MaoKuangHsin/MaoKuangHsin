@@ -7,8 +7,8 @@
 </p>
 <p align="center">
   <a href="https://maokuanghsin.github.io/" target="_blank">My personal website</a>
-  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a>
-  <a Feel free to check out my work and reach out!</a>
+  <a href="https://cindymao.carrd.co/" target="_blank">Contact Information</a><br>
+  
 </p>
 
 ---

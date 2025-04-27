@@ -31,7 +31,7 @@ Welcome to Cindy's website! Stay tuned for updates.
 
 ## 🛠️ Tools & Skills
 
-- 🧪 Python (pandas, matplotlib, geopandas, scikit-learn)
+- 🧪 Python (NumPy, pandas, matplotlib, geopandas, scikit-learn) 
 - 📊 R (ggplot2, tidyverse)
 - 🗺️ QGIS, Geospatial analysis
 - 🧠 Machine Learning, Data Cleaning, EDA

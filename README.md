@@ -22,6 +22,7 @@ Explore global stock market trends and returns for 2023–2024.
 Geospatial study on forest loss, agriculture, and fire hotspots using QGIS, Python & R.
 
 🔹 [QR Code Generator](https://maokuanghsin.github.io/qr-code-generator/)
+Generate customizable QR codes — securely and instantly in your browser.
 
 🔹 [ESG Scoring System](https://github.com/MaoKuangHsin/ESG-Scoring-System)  
 Multi-metric scoring approach to assess company ESG performance.

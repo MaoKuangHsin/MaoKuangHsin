@@ -2,9 +2,9 @@
 
 <p align="center">
   📊 Data Science @ NUS | Sustainability is my mission <br>
-  🌏 Python • R • SQL • QGIS | ESG • Geospatial • AI • Finance <br>
+  🌏 Python • R • SQL • QGIS | ESG • Finance • AI • Geospatial <br>
   <sub>🚀 Turning data into meaningful action </sub><br>
-  📍 Based in Singapore 
+  📍 Based in Singapore
 </p>
 <p align="center">
   <a href="https://cindymao.carrd.co/" target="_blank">Connect with Me</a>

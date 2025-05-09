@@ -27,7 +27,7 @@ Generate customizable QR codes — securely and instantly in your browser.
 🔹 [ESG Scoring System](https://github.com/MaoKuangHsin/ESG-Scoring-System)  
 Multi-metric scoring approach to assess company ESG performance.
 
-🔹 [House Price Prediction](https://github.com/MaoKuangHsin/House-Prices-Prediction) 
+🔹 [House Price Prediction](https://github.com/MaoKuangHsin/House-Prices-Prediction)<br>
 Machine learning models to predict real estate prices with regression techniques.
 
 🔹 [Discount Analysis on Conversion Rate](https://github.com/MaoKuangHsin/marketing-analysis)<br>

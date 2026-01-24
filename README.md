@@ -15,7 +15,7 @@
 
 ## 🌟 Projects Showcase
 
-🔹 [InsightMarket](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)<br>
+🔹 [InsightMarket](https://github.com/MaoKuangHsin/insight-market-intelligence)<br>
 Real-Time Intelligence. Predict Every Move.
 
 🔹 [Stock Trends and Returns](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)<br>

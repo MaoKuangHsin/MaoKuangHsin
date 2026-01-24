@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Cindy </h1>
 
 <p align="center">
-  📊 Data Science @ NUS | Sustainability is my mission <br>
-  🌏 Python • R • SQL • QGIS | ESG • Finance • AI • Geospatial <br>
+  📊 Data Science @ NUS | AI is my mission <br>
+  🌏 Python • R • SQL • QGIS | Cloud • Finance • AI • Geospatial <br>
   <sub>🚀 Turning data into meaningful action </sub><br>
   📍 Based in Singapore | Taiwan
 </p>

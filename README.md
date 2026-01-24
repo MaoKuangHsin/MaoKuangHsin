@@ -15,6 +15,9 @@
 
 ## 🌟 Projects Showcase
 
+🔹 [InsightMarket](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)<br>
+Real-Time Intelligence. Predict Every Move.
+
 🔹 [Stock Trends and Returns](https://github.com/MaoKuangHsin/stock-trends-and-returns.git)<br>
 Explore global stock market trends and returns for 2023–2024.
 

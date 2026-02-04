@@ -2,7 +2,7 @@
 
 <p align="center">
   📊 Data Science @ NUS | <b>Generative AI Engineering & Automation</b> <br>
-  🌍 Python • R • Azure AI • Google Cloud | <b>Prompt Engineering • GenAI • Spatial Analytics</b> <br>
+  🌍 Python • SQL • Azure AI • Google Cloud | <b>Prompt Engineering • GenAI • Spatial Analytics</b> <br>
   <sub>🚀 Bridging the gap between raw data and agentic intelligence </sub><br>
   📍 Based in Singapore
 </p>

@@ -7,7 +7,7 @@
   📍 Based in Singapore
 </p>
 <p align="center">
-  <a href="https://cindymao.carrd.co/" target="_blank">Connect with Me</a>
+  <a href="[https://www.linkedin.com/in/cindymao109/]" target="_blank">Connect with Me</a>
   
 </p>
 

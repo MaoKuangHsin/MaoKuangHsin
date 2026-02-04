@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Cindy </h1>
 
 <p align="center">
-  📊 Data Science @ NUS | AI is my mission <br>
-  🌏 Python • SQL • Cloud • QGIS | Cloud • Finance • AI • Geospatial <br>
-  <sub>🚀 Turning static data into active, agentic insights </sub><br>
+  📊 Data Science @ NUS | <b>Generative AI Engineering & Automation</b> <br>
+  🌍 Python • R • Azure AI • Google Cloud | <b>Prompt Engineering • GenAI • Spatial Analytics</b> <br>
+  <sub>🚀 Bridging the gap between raw data and agentic intelligence </sub><br>
   📍 Based in Singapore
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/cindymao109/" target="_blank">Connect with Me</a>
-  
 </p>
 
 ---

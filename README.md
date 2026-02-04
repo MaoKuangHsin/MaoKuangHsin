@@ -4,7 +4,7 @@
   📊 Data Science @ NUS | AI is my mission <br>
   🌏 Python • R • SQL • QGIS | Cloud • Finance • AI • Geospatial <br>
   <sub>🚀 Turning data into meaningful action </sub><br>
-  📍 Based in Singapore | Taiwan
+  📍 Based in Singapore
 </p>
 <p align="center">
   <a href="https://cindymao.carrd.co/" target="_blank">Connect with Me</a>

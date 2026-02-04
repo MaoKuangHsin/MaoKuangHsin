@@ -43,10 +43,12 @@ Welcome to Cindy's website! Stay tuned for updates.
 
 ## 🛠️ Tools & Skills
 
+- 🤖 Agentic AI & Orchestration (Multi-Agent Systems, RAG, Function Calling, Microsoft Copilot Studio)
+- 🧠 Generative AI Engineering (Prompt Engineering, Chain-of-Thought, Google AI Studio, Azure OpenAI)
 - 🧪 Python (NumPy, pandas, matplotlib, geopandas, scikit-learn) 
 - 📊 R (ggplot2, tidyverse)
 - 🗺️ QGIS, Geospatial analysis
-- 🧠 Machine Learning, Data Cleaning, EDA
+- 🧠 Machine Learning, Deep Learning, EDA
 - 🌐 Web Development (HTML, CSS, JavaScript, GitHub Pages)
 - 🌍 ESG & Sustainability-related modeling
 

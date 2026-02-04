@@ -49,7 +49,7 @@ Welcome to Cindy's website! Stay tuned for updates.
 - 📊 R (ggplot2, tidyverse)
 - 🗺️ QGIS, Geospatial analysis
 - 🧠 Machine Learning, Deep Learning, EDA
-- 🌐 Web Development (HTML, CSS, JavaScript, GitHub Pages)
+- 🌐 Web Development (HTML, CSS, JavaScript, C#, GitHub Pages)
 - 🌍 ESG & Sustainability-related modeling
 
 ---

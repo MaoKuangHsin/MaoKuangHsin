@@ -55,8 +55,8 @@ Welcome to Cindy's website! Stay tuned for updates.
 
 ## 🌎 Languages
 
-- Chinese (Mandarin): Fluent
 - English: Fluent
+- Chinese (Mandarin): Fluent
 - Japanese: Fluent
 - Taiwanese Hokkien: Conversational
 - Cantonese: Conversational

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cindy </h1>
 
 <p align="center">
-  📊 Business Analyst @ HP | <b>Generative AI Engineering & Automation</b> <br>
+  📊 Business Analyst @ HP | <b> AI Engineering & Automation</b> <br>
   🌍 Python • SQL • Azure AI • Google Cloud | <b>Prompt Engineering • GenAI • Spatial Analytics</b> <br>
   <sub>🚀 Bridging the gap between raw data and agentic intelligence </sub><br>
   📍 Based in Singapore

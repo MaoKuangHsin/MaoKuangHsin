@@ -14,6 +14,9 @@
 
 ## 🌟 Projects Showcase
 
+🔹 [Engineering Report Translator](https://github.com/MaoKuangHsin/engineering-report-translator)<br>
+Turn engineers' technical notes into a short, manager-ready report — in English, Traditional Chinese, and Japanese.
+
 🔹 [InsightMarket](https://github.com/MaoKuangHsin/insight-market-intelligence)<br>
 Real-Time Intelligence. Predict Every Move.
 

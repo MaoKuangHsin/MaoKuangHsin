@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cindy </h1>
 
 <p align="center">
-  📊 Business Analyst @ HP | <b> AI Engineering & Automation</b> <br>
-  🌍 Python • SQL • Azure AI • Google Cloud | <b>Prompt Engineering • GenAI • Spatial Analytics</b> <br>
-  <sub>🚀 Bridging the gap between raw data and agentic intelligence </sub><br>
+  🚀 AI Solution Architect & Innovator | <b>Agentic AI & LLM Applications</b> <br>
+  🌍 Python • SQL • Azure AI • Google Cloud | <b>Agentic AI • LLM Applications • RAG & AI Agents • Spatial Analytics</b> <br>
+  <sub>🚀 Building agentic AI products that save teams hours. </sub><br>
   📍 Based in Singapore
 </p>
 <p align="center">
@@ -46,7 +46,7 @@ Exploratory analysis on how discount strategies affect product conversion rates 
 ## 🛠️ Tools & Skills
 
 - 🤖 Agentic AI & Orchestration (Multi-Agent Systems, RAG, Function Calling, Microsoft Copilot Studio)
-- 🧠 Generative AI Engineering (Prompt Engineering, Chain-of-Thought, Google AI Studio, Azure OpenAI)
+- 🧠 Agentic AI Engineering (Agentic AI, LLM Applications, RAG & AI Agents, Google AI Studio, Azure OpenAI)
 - 🧪 Python (NumPy, pandas, matplotlib, geopandas, scikit-learn) 
 - 📊 R (ggplot2, tidyverse)
 - 🗺️ QGIS, Geospatial analysis

@@ -14,6 +14,9 @@
 
 ## 🌟 Projects Showcase
 
+🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
+My personal website — AI Solution Architect & Innovator, projects, and spotlight.
+
 🔹 [Engineering Report Translator](https://github.com/MaoKuangHsin/engineering-report-translator)<br>
 Turn engineers' technical notes into a short, manager-ready report — in English, Traditional Chinese, and Japanese.
 
@@ -37,9 +40,6 @@ Machine learning models to predict real estate prices with regression techniques
 
 🔹 [Discount Analysis on Conversion Rate](https://github.com/MaoKuangHsin/marketing-analysis)<br>
 Exploratory analysis on how discount strategies affect product conversion rates across categories.
-
-🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
-Welcome to Cindy's website! Stay tuned for updates.
 
 ---
 

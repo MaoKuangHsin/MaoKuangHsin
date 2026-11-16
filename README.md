@@ -17,6 +17,9 @@
 🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
 My personal website — AI Solution Architect & Innovator, projects, and spotlight.
 
+🔹 [AI Resume Health Check](https://github.com/MaoKuangHsin/ai-resume-health-check)<br>
+Check a resume against a job description — match score, missing skills, prioritized fixes, and bullet rewrites. Runs 100% in the browser, no upload.
+
 🔹 [Engineering Report Translator](https://github.com/MaoKuangHsin/engineering-report-translator)<br>
 Turn engineers' technical notes into a short, manager-ready report — in English, Traditional Chinese, and Japanese.
 

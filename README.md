@@ -17,6 +17,9 @@
 🔹 [My Personal Website](https://github.com/MaoKuangHsin/MaoKuangHsin.github.io)<br>
 My personal website — AI Solution Architect & Innovator, projects, and spotlight.
 
+🔹 [AI ROI Calculator for SMEs](https://github.com/MaoKuangHsin/ai-roi-calculator-for-smes-)<br>
+Find where AI pays off for a small business — ROI-ranked use cases, savings, payback and a 90-day roadmap, with a downloadable PDF report. Runs 100% in the browser.
+
 🔹 [AI Resume Health Check](https://github.com/MaoKuangHsin/ai-resume-health-check)<br>
 Check a resume against a job description — match score, missing skills, prioritized fixes, and bullet rewrites. Runs 100% in the browser, no upload.
 

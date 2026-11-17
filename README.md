@@ -26,6 +26,9 @@ Check a resume against a job description — match score, missing skills, priori
 🔹 [Engineering Report Translator](https://github.com/MaoKuangHsin/engineering-report-translator)<br>
 Turn engineers' technical notes into a short, manager-ready report — in English, Traditional Chinese, and Japanese.
 
+🔹 [Just Spin It!](https://github.com/MaoKuangHsin/just-spin-it)<br>
+Can't decide? Spin! Travel, food and activity wheels — 40 countries / 162 cities, 30 food ideas and 30 activity ideas. Runs 100% in the browser.
+
 🔹 [InsightMarket](https://github.com/MaoKuangHsin/insight-market-intelligence)<br>
 Real-Time Intelligence. Predict Every Move.
 
